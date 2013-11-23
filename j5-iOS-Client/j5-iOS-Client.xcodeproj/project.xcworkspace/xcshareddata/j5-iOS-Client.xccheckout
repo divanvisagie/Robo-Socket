@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CBCAA6E1-D3BA-495E-99EF-D4A2DC90D1AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>j5-iOS-Client</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A255046-F34C-4A09-A1E2-C4A3F2296B0E</key>
+		<string>https://github.com/divanvisagie/Robo-Socket.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>j5-iOS-Client/j5-iOS-Client.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A255046-F34C-4A09-A1E2-C4A3F2296B0E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/divanvisagie/Robo-Socket.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A255046-F34C-4A09-A1E2-C4A3F2296B0E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A255046-F34C-4A09-A1E2-C4A3F2296B0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Robo-Socket</string>
+		</dict>
+	</array>
+</dict>
+</plist>
